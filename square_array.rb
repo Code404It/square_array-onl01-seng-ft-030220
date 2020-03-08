@@ -1,3 +1,3 @@
-def square_array(a)
-  a.map { |i| i * i }
+def square_array(array)
+  
 end
